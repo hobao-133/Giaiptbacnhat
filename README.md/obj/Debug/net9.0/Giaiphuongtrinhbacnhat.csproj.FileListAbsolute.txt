@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\bin\Debug\net9.0\Giaiphuongtrinhbacnhat.exe
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\bin\Debug\net9.0\Giaiphuongtrinhbacnhat.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\bin\Debug\net9.0\Giaiphuongtrinhbacnhat.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\bin\Debug\net9.0\Giaiphuongtrinhbacnhat.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\bin\Debug\net9.0\Giaiphuongtrinhbacnhat.pdb
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\obj\Debug\net9.0\Giaiphuongtrinhbacnhat.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\obj\Debug\net9.0\Giaiphuongtrinhbacnhat.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\obj\Debug\net9.0\Giaiphuongtrinhbacnhat.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\obj\Debug\net9.0\Giaiphuongtrinhbacnhat.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\obj\Debug\net9.0\Giaiphuongtrinhbacnhat.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\obj\Debug\net9.0\refint\Giaiphuongtrinhbacnhat.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\obj\Debug\net9.0\Giaiphuongtrinhbacnhat.pdb
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\obj\Debug\net9.0\Giaiphuongtrinhbacnhat.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Giaiphuongtrinhbacnhat\obj\Debug\net9.0\ref\Giaiphuongtrinhbacnhat.dll
